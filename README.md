@@ -9,6 +9,7 @@
  * [비동기 서비스 구서하기3](https://spring.io/guides/gs/async-method/)
  * [Jackson Annotation](https://www.baeldung.com/jackson-annotations)
  * [Controller-RestController](https://mangkyu.tistory.com/49)
+ * [RestTemplate를 이용한 Rest API 응답처리](https://www.baeldung.com/rest-template)
  
 ## Spring Batch
  * [Local Partitioner1](https://www.baeldung.com/spring-batch-partitioner)
