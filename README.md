@@ -11,6 +11,7 @@
  * [Controller-RestController](https://mangkyu.tistory.com/49)
  * [(deprecated)RestTemplate를 이용한 Rest API 응답처리](https://www.baeldung.com/rest-template)
  * [Spring WebClient를 이용한 Rest API 응답처리](https://www.baeldung.com/spring-5-webclient)
+ * [Spring WebClient Mocking](https://www.baeldung.com/spring-mocking-webclient)
  * [h2 db의 server/embedded/in-memory 사용법](https://kukim.tistory.com/105)
  
 ## Spring Batch
