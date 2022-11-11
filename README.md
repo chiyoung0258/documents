@@ -10,4 +10,7 @@
 ## Spring Batch
  * [Local Partitioner1](https://www.baeldung.com/spring-batch-partitioner)
  * [Local Partitioner2](https://mkyong.com/spring-batch/spring-batch-partitioning-example/#:~:text=In%20Spring%20Batch%2C%20%E2%80%9CPartitioning%E2%80%9D,100%2C%20a%20single%20thread%20example.)
+
+## 네트워크
+ * [VIP 할당하기](https://www.joinc.co.kr/w/Site/cloud/NetworkVirtualization/VirtualIP)
  
