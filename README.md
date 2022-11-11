@@ -7,6 +7,7 @@
  * [비동기 서비스 구성하기1](https://velog.io/@cotchan/AsyncConfigurer%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-return-value%EC%9E%88%EB%8A%94-Async-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
  * [비동기 서비스 구성하기2](https://www.baeldung.com/spring-async)
  * [비동기 서비스 구서하기3](https://spring.io/guides/gs/async-method/)
+ * [Controller-RestController](https://mangkyu.tistory.com/49)
  
 ## Spring Batch
  * [Local Partitioner1](https://www.baeldung.com/spring-batch-partitioner)
