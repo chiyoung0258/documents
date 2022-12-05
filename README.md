@@ -18,6 +18,7 @@
  * [Local Partitioner1](https://www.baeldung.com/spring-batch-partitioner)
  * [Local Partitioner2](https://mkyong.com/spring-batch/spring-batch-partitioning-example/#:~:text=In%20Spring%20Batch%2C%20%E2%80%9CPartitioning%E2%80%9D,100%2C%20a%20single%20thread%20example.)
  * [Rest API를 이용한 ItemReader 만들기](https://www.petrikainulainen.net/programming/spring-framework/spring-batch-tutorial-reading-information-from-a-rest-api/)
+ * [Custom ItemReader 만들기](https://www.petrikainulainen.net/programming/spring-framework/spring-batch-tutorial-creating-a-custom-itemreader/)
 
 ## Java
  * [얕은 복사, 깊은 복사](https://velog.io/@tomato2532/Object.clone-%EC%96%95%EC%9D%80-%EB%B3%B5%EC%82%AC-%EA%B9%8A%EC%9D%80-%EB%B3%B5%EC%82%AC-%EB%B3%B5%EC%82%AC-%EC%83%9D%EC%84%B1%EC%9E%90)
